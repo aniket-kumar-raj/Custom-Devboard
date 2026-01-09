@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_RaspberryPi_RP2040)(type Legacy)(uri "D:/Users/Satish Kumar/Desktop/Raspberry Pi 3/Minimal-KiCAD/minimal/RP2040_minimal_r2/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name RP2040_minimal_r2-cache)(type Legacy)(uri "D:/Users/Satish Kumar/Desktop/Raspberry Pi 3/Minimal-KiCAD/minimal/RP2040_minimal_r2/RP2040_minimal_r2-cache.lib")(options "")(descr ""))
+)
